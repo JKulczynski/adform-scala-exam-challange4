@@ -1,0 +1,29 @@
+= Scala Academy Exam Challange4
+
+*The content of the task:*
+
+Write a Calendar class that can have days with tasks assigned. The application should not allow the user to add overlapping (happening at the same time) tasks. Tasks can be recurring.
+
+:library: Asciidoctor
+:idprefix:
+:numbered:
+:imagesdir: images
+:experimental:
+:toc: preamble
+:toc-title: pass:[<h3>Table od contents</h3>]
+ifdef::env-github[]
+:note-caption: :information_source:
+:tip-caption: :bulb:
+endif::[]
+
+*Dependencies*
+
+To run this app you need IDE(i use InteliJ)
+
+*How to run?*
+
+Clone this repository. Run object Main.
+
+*Troubleshooting*
+
+To be honest, i was a little bit lost with these challange, so all i wrote is some classes.
